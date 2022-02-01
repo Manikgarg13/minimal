@@ -43,12 +43,12 @@ NonPareil is a andorid game application. I created during my college time. This 
 
 ## Skills
 
--Machine Learning
--Deep Learning
--NLP (Structured & Unstructured Data)
--MySQL / NoSQL
--Programming Languages: Python, R, C/C++, Java
--Frameworks : NumPy, Pandas, Tensorflow, Keras, Pytorch, Scikit learn, NLTK, Spacy...more
+- Machine Learning
+- Deep Learning
+- NLP (Structured & Unstructured Data)
+- MySQL / NoSQL
+- Programming Languages: Python, R, C/C++, Java
+- Frameworks : NumPy, Pandas, Tensorflow, Keras, Pytorch, Scikit learn, NLTK, Spacy...more
 
 ---
 
