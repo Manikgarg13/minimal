@@ -1,6 +1,20 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center"> Manik Garg </p>
+logo: /assets/img/pro pic.jpg
+description:
+  <p align="center">
+  <a href="/assets/resume/Manik's Resume new.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/manik-garg-579362167">LinkedIn</a> |
+  <a href="https://github.com/Manikgarg13">GitHub</a>
+  
+  <br>   
+  Been part of Genpact for 3+ years usually working on structured/
+unstructured data. Responsible for implementing various NLP, NLU, and recommendation techniques
+using languages like python and R and builds various Machine Learning and Deep Learning
+techniques for modeling.
+  <br>
+  </p>
+
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
